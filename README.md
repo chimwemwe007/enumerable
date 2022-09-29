@@ -1,62 +1,43 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
-
+Enumerable
 > Description the project.
-
+The enumerable is a project used enumerate given range of items and its a pair  programming project
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major language
+ ruby
+
 - Technologies used
+rubocop
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+ basic Computer knowledge, HTML, CSS and JAVASCRIPT
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@chimwemwe007](https://github.com/chimwmwe007)
+- Twitter: [@chxmz](https://twitter.com/chxmz)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/chimwemwe-mkandawire)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ambrosegithub](https://github.com/ambrosegithub)
+- Twitter: [@twitterhandle](https://twitter.com/Glorious851)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ambrose-isigba/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/chimwemwe007/enumerable/issues).
 
 ## Show your support
 
@@ -70,6 +51,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chimwemwe007/enumerable/blob/dev/LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
